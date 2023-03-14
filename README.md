@@ -55,13 +55,13 @@ Horizontal Timeline
 Nestable
 Ribbons
 
-###Chart
+### Chart
 ChartJS
 Sparkline
 Inline charts
 jQuery Knob
 
-###Widgets
+### Widgets
 Statistic
 Chat Box
 Social
