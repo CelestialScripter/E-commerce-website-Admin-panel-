@@ -5,7 +5,7 @@ The backend of your website, known as the Admin Panel, gives you the flexibility
 1.You may check numerous products at once and manage and track all of your orders with the help of the admin panel.</br>
 
 2.The order summary can provide you with information on the orders your clients have placed, including:
-  Summary of the products ordered by your customer.
+  Summary of the products ordered by your customer.</br>
 
 3.Customer details such as their names, shipping address, contact number, and email id.
 
