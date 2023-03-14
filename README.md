@@ -15,64 +15,64 @@ Ecommerce Admin Panel helps you to directly create your draft orders.
 
 Keep a track of abandoned orders.
 ## Features
-### UI Kit
+### UI Kit</br>
 
-Badges
-Buttons
-Floating Action Buttons
-Carousel
-Modal
-Dropdown
-Dropdown menu
-Sortable
-Nav
-Breadcrumbs
-Pagination
-Alert
-Callout
-Tooltip
-Accordion
-Tab
-Process
-Progress bar
-Spinner
-Timeline
-Timeline activity
-User Cards
-Sweet Alert
-Notification
-Advanced Medias
-Badges
-Dropdown grid
-Dropdown menu
-Dropdown
-Border
-Color
-Draggable Portlet
-Bootstrap Switch
-Date Paginator
-Horizontal Timeline
-Nestable
-Ribbons
+Badges</br>
+Buttons</br>
+Floating Action Buttons</br>
+Carousel</br>
+Modal</br>
+Dropdown</br>
+Dropdown menu</br>
+Sortable</br>
+Nav</br>
+Breadcrumbs</br>
+Pagination</br>
+Alert</br>
+Callout</br>
+Tooltip</br>
+Accordion</br>
+Tab</br>
+Process</br>
+Progress bar</br>
+Spinner</br>
+Timeline</br>
+Timeline activity</br>
+User Cards</br>
+Sweet Alert</br>
+Notification</br>
+Advanced Medias</br>
+Badges</br>
+Dropdown grid</br>
+Dropdown menu</br>
+Dropdown</br>
+Border</br>
+Color</br>
+Draggable Portlet</br>
+Bootstrap Switch</br>
+Date Paginator</br>
+Horizontal Timeline</br>
+Nestable</br>
+Ribbons</br>
 
 ### Chart
-ChartJS
-Sparkline
-Inline charts
-jQuery Knob
+ChartJS</br>
+Sparkline</br>
+Inline charts</br>
+jQuery Knob</br>
 
 ### Widgets
-Statistic
-Chat Box
-Social
-Weather
-Blog
-Chart widgets
-List widgets
-Social widgets
-Pricing tables
-Coming soon
-Live Chat
-Calendar
-Mailbox
-Taskboard
+Statistic</br>
+Chat Box</br>
+Social</br>
+Weather</br>
+Blog</br>
+Chart widgets</br>
+List widgets</br>
+Social widgets</br>
+Pricing tables</br>
+Coming soon</br>
+Live Chat</br>
+Calendar</br>
+Mailbox</br>
+Taskboard</br>
